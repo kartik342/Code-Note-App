@@ -36,7 +36,7 @@ const ViewPaste = () => {
 
       <div className='mt-8'>
         <textarea 
-          className='rounded-lg p-3 min-w-[600px]'
+          className='rounded-lg p-3 min-w-[950px]'
           value={paste.content}
           placeholder='Keep Notes Here...'
           disabled // to only view the the notes => you can't change them
